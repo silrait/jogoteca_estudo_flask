@@ -1,0 +1,11 @@
+table, tbody, thead {
+    width: 100%;
+}
+
+.jogo-nome {
+  width: 40em;
+}
+
+.jogo-categoria, .jogo-console {
+  width: 30%;
+}
