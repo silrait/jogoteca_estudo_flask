@@ -3,9 +3,9 @@ table, tbody, thead {
 }
 
 .jogo-nome {
-  width: 40em;
+  width: 20em;
 }
 
-.jogo-categoria, .jogo-console {
-  width: 30%;
+.jogo-categoria, .jogo-console, .jogo-acoes {
+  width: 12em;
 }
